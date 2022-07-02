@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       
         <div className='titulo'> <h1></h1>
-        <a href="https://www.folcode.com">Hola mundo</a>
+        <a href="https://www.folcode.com">Hola Mundo</a>
         </div>
 
       
